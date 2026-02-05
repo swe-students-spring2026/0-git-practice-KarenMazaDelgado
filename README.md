@@ -12,6 +12,7 @@ Its interesting how at some universities, Computer Science higher education cirr
 Though sometimes traditional classes can have a use case. Often software engineers have to deal with keeping things running. Courses like operating sysems prepare students for software engineering by helping them understand fundamentals when curating systems. LLMs may have trouble with things like memory leaks and resource constraints. I imagine the addition of this college has some of the fundamental courses that may be useful for software engineering since the field itself is gearing toward managing systems and designing for reliability and scaling.
 
 ---
+
 ### Peer Review
 **Comment by: Tae Kim**
 
